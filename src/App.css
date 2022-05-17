@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.text-title {
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
